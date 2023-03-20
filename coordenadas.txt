@@ -1,0 +1,11 @@
+Capacidad belica | Geolocalización | Detalle Arsenal
+ 5,  GPS5,  bct
+ 4,  GPS4,  acd
+ 5,  GPS5,  bct
+ 7,  GPS7,  aaabbct
+ 1,  GPS1,  bc
+ 4,  GPS4,  acd
+ 5,  GPS5,  bct
+ 2,  GPS2,  ac
+ 7,  GPS7,  aaabbct
+ 1,  GPS1,  bc
